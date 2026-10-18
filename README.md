@@ -198,8 +198,8 @@ Task Reference: "Future Interns — Cyber Security Task 2 (2026)" (https://futur
 
 Cybersecurity Student | Aspiring Security Analyst
 
-- GitHub: "@cybercandy07" (https://github.com/cybercandy07)
-- LinkedIn: "Connect with me" (https://linkedin.com/in/patibandlasakhiya)
+- GitHub: "@sakhiyapatibandla" (https://github.com/sakhiyapatibandla/)
+- LinkedIn: "Connect with me" (https://www.linkedin.com/in/sakhiyapatibandla/)
 
 ---
 
